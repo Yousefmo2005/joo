@@ -48,7 +48,7 @@ h1{
 }
 
 h2{
-    color:rgba(241, 100, 216, 0.834) ;
+    color:white ;
     position: relative;
     z-index:1;
     transform: rotate(45deg);
@@ -56,7 +56,7 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    left: 1vh;
+    left: 2vh;
     top: 4vh;
 }
 
